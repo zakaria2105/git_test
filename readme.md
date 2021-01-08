@@ -1,4 +1,4 @@
-bonjour 
-salut 
-merhaba
-helllo
+* bonjour 
+* salut 
+* merhaba
+* helllo
